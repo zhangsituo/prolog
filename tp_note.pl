@@ -1,4 +1,4 @@
-% tp note zhang situo groupe tp 5
+% tp noté
 
 %1.
 appartient(_,[]).
